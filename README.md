@@ -22,7 +22,7 @@ Each day's project will be contained in its own folder with the following struct
 
 ### Connect with Me
 
-Follow my journey and connect with me on LinkedIn: [www.linkedin.com/in/hitarth-mahadevia](https://www.linkedin.com/in/hitarth-mahadevia)
+Follow my journey and connect with me on LinkedIn: [Hitarth Mahadevia](https://www.linkedin.com/in/hitarth-mahadevia)
 
 ### License
 
